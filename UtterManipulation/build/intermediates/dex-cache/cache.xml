@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\UtterManipulation\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\Android\UtterManipulation\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7c52570fc284bb8893a1a1ce830c3a549bb6dd8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\UtterManipulation\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="035fa73c1cc28d6f35b0b30e4398016b165062cb">
+        <dex dex="D:\Android\UtterManipulation\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3e0b9a9eff605a043e1080b1c7cce1cc4c6b257f\classes.dex" />
+    </item>
+
+</items>

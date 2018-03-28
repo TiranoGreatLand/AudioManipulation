@@ -1,0 +1,25 @@
+#Wed Jun 14 20:58:00 GMT+08:00 2017
+renamed.7=classes5.dex
+renamed.6=classes6.dex
+renamed.5=classes4.dex
+renamed.4=classes7.dex
+renamed.3=classes2.dex
+renamed.2=classes8.dex
+renamed.1=classes3.dex
+renamed.0=classes.dex
+base.7=D\:\\Android\\UtterManipulation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f854b3df93f2c70bf80073b3d1ad6f6d7123f104
+base.6=D\:\\Android\\UtterManipulation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.0-beta4_0a1a51452886a4374f029187c8cda582b3326c21
+base.5=D\:\\Android\\UtterManipulation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f7c3fd215c2d020f110653d7d316bdae3bae054d
+base.4=D\:\\Android\\UtterManipulation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-24.1.1_0b54abdcdb566ae043caf962bd86b1f591278568
+base.3=D\:\\Android\\UtterManipulation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b35f2454414c8b5bce0b1963af0e3fbfbd823b82
+base.2=D\:\\Android\\UtterManipulation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-24.1.1_3bf9a314fdfe5dd4e81fb78d39ac80f5acac90fa
+base.1=D\:\\Android\\UtterManipulation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d07feb979188391f2b509773349a5505e528cb47
+base.0=D\:\\Android\\UtterManipulation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b07fed3ea3d87f3f20b7228252684f69df16d5e1
+file.7=D\:\\Android\\UtterManipulation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f854b3df93f2c70bf80073b3d1ad6f6d7123f104\\classes.dex
+file.6=D\:\\Android\\UtterManipulation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.0-beta4_0a1a51452886a4374f029187c8cda582b3326c21\\classes.dex
+file.5=D\:\\Android\\UtterManipulation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f7c3fd215c2d020f110653d7d316bdae3bae054d\\classes.dex
+file.4=D\:\\Android\\UtterManipulation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-24.1.1_0b54abdcdb566ae043caf962bd86b1f591278568\\classes.dex
+file.3=D\:\\Android\\UtterManipulation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b35f2454414c8b5bce0b1963af0e3fbfbd823b82\\classes.dex
+file.2=D\:\\Android\\UtterManipulation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-24.1.1_3bf9a314fdfe5dd4e81fb78d39ac80f5acac90fa\\classes.dex
+file.1=D\:\\Android\\UtterManipulation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d07feb979188391f2b509773349a5505e528cb47\\classes.dex
+file.0=D\:\\Android\\UtterManipulation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b07fed3ea3d87f3f20b7228252684f69df16d5e1\\classes.dex
