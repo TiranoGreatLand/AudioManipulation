@@ -3,6 +3,5 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="lib" path="D:/JAVA/jave-1.0.2/jave-1.0.2.jar"/>
-	<classpathentry kind="lib" path="D:/JAVA/jython-standalone-2.5.4-rc1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

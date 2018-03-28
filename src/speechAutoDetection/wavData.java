@@ -53,7 +53,7 @@ public class wavData {
 			//res = (buf[0]&0x000000FF) | (((int)buf[1])<<8);
 			res = (buf[0]&0x000000FF);
 			for(int i=1;i<bytepersample;i++){
-				res |= (((int)buf[1])<<(8*i));
+				res |= (((int)buf[i])<<(8*i));
 			}
 		} catch (IOException e) {
 			e.printStackTrace();

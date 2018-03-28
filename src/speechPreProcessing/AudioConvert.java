@@ -224,5 +224,12 @@ public class AudioConvert {
 		return ret;
 	}
 
+	public static void main(String[] args) throws InputFormatException, EncoderException, UnsupportedAudioFileException, IOException{
+		AudioConvert ac = new AudioConvert();
+		String inputpath = "D:\\DataGames\\childvoice\\history1.wav";
+		String outputpath = "D:\\DataGames\\childvoice\\history1_2.wav";
+		AudioInputStream tmpas = ac.audioRead(inputpath);
+		ac.audioConvert(tmpas, outputpath);
+	}
 	
 }

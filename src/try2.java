@@ -8,8 +8,6 @@ import javax.sound.sampled.AudioInputStream;
 import javax.sound.sampled.AudioSystem;
 import javax.sound.sampled.UnsupportedAudioFileException;
 
-import org.python.modules.math;
-
 public class try2 {
 
 	public static void main(String[] args) throws IOException, UnsupportedAudioFileException{

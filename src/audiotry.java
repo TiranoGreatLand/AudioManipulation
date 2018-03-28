@@ -1,12 +1,8 @@
-import org.python.util.PythonInterpreter;
-
 import java.util.Properties;
 
-import org.python.core.Py;
-import org.python.core.PySystemState;
 
 public class audiotry {
-
+/*
 	public static void main(String[] args) {
 		PySystemState sys = Py.getSystemState();
 		System.out.println(sys.path.toString());
@@ -19,5 +15,5 @@ public class audiotry {
 		interpreter.execfile("D:\\Codes\\pythonForJava\\audioTranslate.py");
 		
 	}
-	
+	*/
 }
